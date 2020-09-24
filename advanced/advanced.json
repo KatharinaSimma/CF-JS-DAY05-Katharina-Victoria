@@ -1,21 +1,26 @@
 var mangas = `[{
         "title": "Naruto",
         "author": "Masashi Kishimoto",
-        "read": true
+        "read": true,
+        "image": "img/Naruto.jpg"
     }, {
         "title": "One Piece",
         "author": "Eiichiroo Oda",
-        "read": true
+        "read": true,
+        "image": "img/One-Piece.jpg"
     }, {
         "title": "Attack on Titan",
         "author": "Hajime Isayama",
-        "read": true
+        "read": true,
+        "image": "img/Attack-on-Titan.jpg"
     }, {
         "title": "The Seven Deadly Sins",
         "author": "Nakaba Suzuki",
-        "read": false
+        "read": false,
+        "image": "img/The-Seven-Deadly-Sins.jpg"
     }, {
         "title": "Bloom Into You",
         "author": "Nio Nakatani",
-        "read": false
+        "read": false,
+        "image": "img/Bloom-into-You.jpg"
     }]`;
