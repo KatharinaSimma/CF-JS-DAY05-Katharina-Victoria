@@ -1,0 +1,91 @@
+var employees = `[
+    {
+    "ID": "001",
+    "FirstName": "Hansi",
+    "LastName": "Hinterseer",
+    "Email": "Hansi@hintermsee.at",
+    "Job": "Schlagersinger",
+    "Salary": "Eventbased"
+}
+,
+{
+    "ID": "002",
+    "FirstName": "Horst",
+    "LastName": "Hinterseer",
+    "Email": "Horst@hintermsee.at",
+    "Job": "Schlagersinger",
+    "Salary": "Eventbased"
+}
+,
+{
+    "ID": "003",
+    "FirstName": "Hani",
+    "LastName": "Hinterseer",
+    "Email": "Hani@hintermsee.at",
+    "Job": "Schlagersinger",
+    "Salary": "Eventbased"
+}
+,
+{
+    "ID": "004",
+    "FirstName": "Basi",
+    "LastName": "Hinterseer",
+    "Email": "Basi@hintermsee.at",
+    "Job": "Schlagersinger",
+    "Salary": "Eventbased" 
+}
+,
+{
+    "ID": "005",
+    "FirstName": "Herb",
+    "LastName": "Hinterseer",
+    "Email": "Herb@hintermsee.at",
+    "Job": "Schlagersinger",
+    "Salary": "Eventbased" 
+}
+,
+{
+    "ID": "006",
+    "FirstName": "Fronz",
+    "LastName": "Hinterseer",
+    "Email": "Fronz@hintermsee.at",
+    "Job": "Schlagersinger",
+    "Salary": "Eventbased" 
+}
+,
+{
+    "ID": "007",
+    "FirstName": "Sepp",
+    "LastName": "Hinterseer",
+    "Email": "Sepp@hintermsee.at",
+    "Job": "Schlagersinger",
+    "Salary": "Eventbased" 
+}
+,
+{
+    "ID": "008",
+    "FirstName": "Koarl",
+    "LastName": "Hinterseer",
+    "Email": "Koarl@hintermsee.at",
+    "Job": "Schlagersinger",
+    "Salary": "Eventbased" 
+}
+,
+{
+    "ID": "009",
+    "FirstName": "Consti",
+    "LastName": "Hinterseer",
+    "Email": "Consti@hintermsee.at",
+    "Job": "Schlagersinger",
+    "Salary": "Eventbased" 
+}
+,
+{
+    "ID": "010",
+    "FirstName": "Zensi",
+    "LastName": "Hinterseer",
+    "Email": "Zensi@hintermsee.at",
+    "Job": "Schlagersinger",
+    "Salary": "Eventbased" 
+}
+]`;
