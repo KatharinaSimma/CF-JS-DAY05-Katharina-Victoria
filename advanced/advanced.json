@@ -1,0 +1,21 @@
+var mangas = `[{
+        "title": "Naruto",
+        "author": "Masashi Kishimoto",
+        "read": true
+    }, {
+        "title": "One Piece",
+        "author": "Eiichiroo Oda",
+        "read": true
+    }, {
+        "title": "Attack on Titan",
+        "author": "Hajime Isayama",
+        "read": true
+    }, {
+        "title": "The Seven Deadly Sins",
+        "author": "Nakaba Suzuki",
+        "read": false
+    }, {
+        "title": "Bloom Into You",
+        "author": "Nio Nakatani",
+        "read": false
+    }]`;
